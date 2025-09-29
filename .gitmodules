@@ -1,0 +1,3 @@
+[submodule "ros2_base"]
+	path = ros2_base
+	url = https://github.com/WolverBot-Kickers/ros2_base.git
